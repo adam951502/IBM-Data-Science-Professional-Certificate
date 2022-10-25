@@ -1,5 +1,5 @@
 ![ViewCount](https://views.whatilearened.today/views/github/adam951502/IBM_Data_Science_Professional_Certification.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/adam951502/IBM_Data_Science_Professional_Certification?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/adam951502/IBM_Data_Science_Professional_Certificate?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/adam951502/IBM_Data_Science_Professional_Certification?style=flat)
 
 [![Header](https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
