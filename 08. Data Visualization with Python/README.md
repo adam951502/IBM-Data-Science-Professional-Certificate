@@ -21,6 +21,9 @@ This course teaches how to present and visualize complex data in a manner that m
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
+  <a> <img src="https://user-images.githubusercontent.com/52702712/198289864-033f4770-a738-4307-b52c-e3c51bd67fc6.jpeg"></a>
+<!-- 
   <a href=""><img src="" height="430"></a>
   <a href=""><img src="" height="430"></a>
+-->
 </p>
