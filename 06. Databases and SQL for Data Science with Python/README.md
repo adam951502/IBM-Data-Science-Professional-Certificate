@@ -56,7 +56,7 @@ The purpose of this course is to introduce relational database concepts and to l
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  < img src="https://user-images.githubusercontent.com/52702712/198289864-033f4770-a738-4307-b52c-e3c51bd67fc6.jpeg" height="430">
+  < img src="https://user-images.githubusercontent.com/52702712/198289864-033f4770-a738-4307-b52c-e3c51bd67fc6.jpeg">
 <!-- 
   <a href=""><img src="" height="430"></a>
   <a href=""><img src="" height="430"></a>
