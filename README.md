@@ -14,7 +14,7 @@ Here is the repository for the IBM course. The certificate will cover the follow
 - [x] [02. Tools for Data Science](02.%20Tools%20for%20Data%20Science/)
 - [x] [03. Data Science Methodology](03.%20Data%20Science%20Methodology)
 - [x] [04. Python for Data Science, AI & Development](04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/)
-- [x] [05. Python Project for Data Science](Python%20Project%20for%20Data%20Science/)
+- [x] [05. Python Project for Data Science](05.%20Python%20Project%20for%20Data%20Science/)
 - [ ] [06. Databases and SQL for Data Science with Python](06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/)
 - [ ] [07. Data Analysis with Python](07.%20Data%20Analysis%20with%20Python/)
 - [ ] [08. Data Visualization with Python](08.%20Data%20Visualization%20with%20Python/)
