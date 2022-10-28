@@ -27,21 +27,21 @@ The IBM Data Science Professional Certification consists of 10 courses which wil
 ## :toolbox: Tools
 The following tools were used to complete this certification: 
 
-[<img src="https://user-images.githubusercontent.com/52702712/198737283-f27df526-5d1f-41c9-b259-2cb5be49e988.png" height="75">](https://www.w3schools.com/python/)
-[<img src="https://user-images.githubusercontent.com/52702712/198736730-54c64a0c-4d21-4cc6-95c7-2bdc532829a6.png" height="75">](https://docs.jupyter.org/en/latest/#)
-[<img src="https://user-images.githubusercontent.com/52702712/198736642-4996fa57-8f26-4e00-911f-9d307859cc4d.png" height="75">](https://rogerdudler.github.io/git-guide/index.html)
+[<img src="https://user-images.githubusercontent.com/52702712/198737283-f27df526-5d1f-41c9-b259-2cb5be49e988.png" height="75" alt="python">](https://www.w3schools.com/python/)
+[<img src="https://user-images.githubusercontent.com/52702712/198736730-54c64a0c-4d21-4cc6-95c7-2bdc532829a6.png" height="75" alt="jupyter">](https://docs.jupyter.org/en/latest/#)
+[<img src="https://user-images.githubusercontent.com/52702712/198736642-4996fa57-8f26-4e00-911f-9d307859cc4d.png" height="75" alt="github">](https://rogerdudler.github.io/git-guide/index.html)
 
 
 ## :hammer_and_wrench: Libraries
 The following Python libraries were used throughout the certification:
 
 [<img  src="https://user-images.githubusercontent.com/52702712/198739637-39f657d8-f8ce-449a-9ec4-df70abca3a9f.png" alt="pandas" height="35">]()
-[<img  src="https://user-images.githubusercontent.com/52702712/198732726-4ddf12d8-7124-4df5-a013-5bbf5339b3db.png" height="35">]()
-[<img  src="https://user-images.githubusercontent.com/52702712/198732854-5d10cb9c-b937-4d59-b899-d056b671335b.png" height="35">]()
-[<img  src="https://user-images.githubusercontent.com/52702712/198739523-ff8901c4-e4dd-4a5a-b328-61112f6f0cb1.svg" height="35">]()
-[<img  src="https://user-images.githubusercontent.com/52702712/198739517-8c52f4b9-bc44-4505-b915-01ebf36c3904.svg" height="35">]()
-[<img  src="https://user-images.githubusercontent.com/52702712/198739496-c87c3325-45a9-42c7-8d22-31c5ff2e8ac2.png" height="35">]()
-[<img  src="https://user-images.githubusercontent.com/52702712/198739729-c8b39e46-9c8f-41a4-864a-6b55ed9fd164.png" height="35">]()
+[<img  src="https://user-images.githubusercontent.com/52702712/198732726-4ddf12d8-7124-4df5-a013-5bbf5339b3db.png" alt="pandas" height="35">]()
+[<img  src="https://user-images.githubusercontent.com/52702712/198732854-5d10cb9c-b937-4d59-b899-d056b671335b.png" alt="pandas" height="35">]()
+[<img  src="https://user-images.githubusercontent.com/52702712/198739523-ff8901c4-e4dd-4a5a-b328-61112f6f0cb1.svg" alt="pandas" height="35">]()
+[<img  src="https://user-images.githubusercontent.com/52702712/198739517-8c52f4b9-bc44-4505-b915-01ebf36c3904.svg" alt="pandas" height="35">]()
+[<img  src="https://user-images.githubusercontent.com/52702712/198739496-c87c3325-45a9-42c7-8d22-31c5ff2e8ac2.png" alt="pandas" height="35">]()
+[<img  src="https://user-images.githubusercontent.com/52702712/198739729-c8b39e46-9c8f-41a4-864a-6b55ed9fd164.png" alt="pandas" height="35">]()
 
 
 ## :clipboard: Projects
