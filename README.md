@@ -24,7 +24,7 @@ The IBM Data Science Professional Certification consists of 10 courses which wil
 - [ ] [09. Machine Learning with Python](09.%20Machine%20Learning%20with%20Python/)
 - [ ] [10. Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)
 
-## :hammer_and_wrench: Tools
+## :toolbox: Tools
 The following tools were used to complete this certification: <br> <br>
   <img src="https://user-images.githubusercontent.com/84391594/152705364-f16bb223-41aa-4510-8113-51171dfe9953.png" height="75">
   <img src="https://user-images.githubusercontent.com/84391594/152705271-083f8784-b3c9-4065-9733-ea3fa8ad5a7a.png" height="75">
@@ -32,7 +32,7 @@ The following tools were used to complete this certification: <br> <br>
   </p>
 
 
-## 📖 Libraries
+## :hammer_and_wrench: Libraries
 The following Python libraries were used throughout the certification: <br> 
 <p align="left">
   <img  src="https://user-images.githubusercontent.com/84391594/152706127-ce41990f-2588-472a-b5df-6b403a5947e6.png" height="35">
@@ -44,6 +44,6 @@ The following Python libraries were used throughout the certification: <br>
   <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
 </p>
 
-## 📂 Projects
+## :clipboard: Projects
 - [Class Programming Languages](https://github.com/adam951502/IBM_Data_Science_Professional_Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Final%20Assignment/Tools%20for%20Data%20Science%20Assignment%20.ipynb)
 - [Extracting and Visualizing Stock Data](https://github.com/adam951502/IBM_Data_Science_Professional_Certificate/blob/d7cc04dc216356099094182e08964e8e10cb51bd/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment/Final%20Assignment.ipynb)
