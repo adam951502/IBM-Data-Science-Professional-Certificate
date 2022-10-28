@@ -26,16 +26,13 @@ The IBM Data Science Professional Certification consists of 10 courses which wil
 
 ## :toolbox: Tools
 The following tools were used to complete this certification: 
-<p align="left">
   [<img src="https://user-images.githubusercontent.com/52702712/198737283-f27df526-5d1f-41c9-b259-2cb5be49e988.png" height="75">](https://www.w3schools.com/python/)
   <img src="https://user-images.githubusercontent.com/52702712/198736730-54c64a0c-4d21-4cc6-95c7-2bdc532829a6.png" height="75">
   <img src="https://user-images.githubusercontent.com/52702712/198736642-4996fa57-8f26-4e00-911f-9d307859cc4d.png" height="75">
-</p>
 
 
 ## :hammer_and_wrench: Libraries
-The following Python libraries were used throughout the certification: <br> 
-<p align="left">
+The following Python libraries were used throughout the certification:
   <img  src="https://user-images.githubusercontent.com/84391594/152706127-ce41990f-2588-472a-b5df-6b403a5947e6.png" height="35">
   <img  src="https://user-images.githubusercontent.com/52702712/198732726-4ddf12d8-7124-4df5-a013-5bbf5339b3db.png" height="35">
   <img  src="https://user-images.githubusercontent.com/52702712/198732854-5d10cb9c-b937-4d59-b899-d056b671335b.png" height="35">
@@ -43,7 +40,7 @@ The following Python libraries were used throughout the certification: <br>
   <img  src="https://user-images.githubusercontent.com/84391594/152706148-36f27f03-1967-45d1-82d8-f6c149c6f21c.svg" height="35">
   <img  src="https://user-images.githubusercontent.com/84391594/152706211-7966848a-a2e1-4c4a-bc08-594a4ca6ff07.png" height="35">
   <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35">
-</p>
+
 
 ## :clipboard: Projects
 - [Class Programming Languages](https://github.com/adam951502/IBM_Data_Science_Professional_Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Final%20Assignment/Tools%20for%20Data%20Science%20Assignment%20.ipynb)
