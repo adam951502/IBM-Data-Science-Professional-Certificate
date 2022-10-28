@@ -34,6 +34,7 @@ The following tools were used to complete this certification:
 
 ## :hammer_and_wrench: Libraries
 The following Python libraries were used throughout the certification:
+
 [<img  src="https://user-images.githubusercontent.com/84391594/152706127-ce41990f-2588-472a-b5df-6b403a5947e6.png" height="35">]()
 [<img  src="https://user-images.githubusercontent.com/52702712/198732726-4ddf12d8-7124-4df5-a013-5bbf5339b3db.png" height="35">]()
 [<img  src="https://user-images.githubusercontent.com/52702712/198732854-5d10cb9c-b937-4d59-b899-d056b671335b.png" height="35">]()
