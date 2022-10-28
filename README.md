@@ -25,8 +25,7 @@ The IBM Data Science Professional Certification consists of 10 courses which wil
 - [ ] [10. Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)
 
 ## :toolbox: Tools
->The tools were used to complete the certification.
-
+The tools were used to complete the certification.
 >P.s. More information can be obtained by ___clicking on the corresponding icon___.  
 
 [<img src="https://user-images.githubusercontent.com/52702712/198737283-f27df526-5d1f-41c9-b259-2cb5be49e988.png" height="75" alt="python">](https://www.w3schools.com/python/)
@@ -35,8 +34,7 @@ The IBM Data Science Professional Certification consists of 10 courses which wil
 
 
 ## :hammer_and_wrench: Libraries
->Python libraries were used throughout the certification.
-
+Python libraries were used throughout the certification.
 >P.s. More information can be obtained by ___clicking on the corresponding icon___.  
 
 [<img  src="https://user-images.githubusercontent.com/52702712/198739637-39f657d8-f8ce-449a-9ec4-df70abca3a9f.png" alt="pandas" height="35">](https://pandas.pydata.org/)
