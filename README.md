@@ -26,9 +26,10 @@ The IBM Data Science Professional Certification consists of 10 courses which wil
 
 ## :toolbox: Tools
 The following tools were used to complete this certification: 
-  [<img src="https://user-images.githubusercontent.com/52702712/198737283-f27df526-5d1f-41c9-b259-2cb5be49e988.png" height="75">](https://www.w3schools.com/python/)
-  <img src="https://user-images.githubusercontent.com/52702712/198736730-54c64a0c-4d21-4cc6-95c7-2bdc532829a6.png" height="75">
-  <img src="https://user-images.githubusercontent.com/52702712/198736642-4996fa57-8f26-4e00-911f-9d307859cc4d.png" height="75">
+
+[<img src="https://user-images.githubusercontent.com/52702712/198737283-f27df526-5d1f-41c9-b259-2cb5be49e988.png" height="75">](https://www.w3schools.com/python/)
+<img src="https://user-images.githubusercontent.com/52702712/198736730-54c64a0c-4d21-4cc6-95c7-2bdc532829a6.png" height="75">
+<img src="https://user-images.githubusercontent.com/52702712/198736642-4996fa57-8f26-4e00-911f-9d307859cc4d.png" height="75">
 
 
 ## :hammer_and_wrench: Libraries
