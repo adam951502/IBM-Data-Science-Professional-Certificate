@@ -35,13 +35,13 @@ The following tools were used to complete this certification:
 ## :hammer_and_wrench: Libraries
 The following Python libraries were used throughout the certification:
 
-[<img  src="https://user-images.githubusercontent.com/52702712/198739637-39f657d8-f8ce-449a-9ec4-df70abca3a9f.png" height="35">]()
+[<img  src="https://user-images.githubusercontent.com/52702712/198739637-39f657d8-f8ce-449a-9ec4-df70abca3a9f.png" alt="pandas" height="35">]()
 [<img  src="https://user-images.githubusercontent.com/52702712/198732726-4ddf12d8-7124-4df5-a013-5bbf5339b3db.png" height="35">]()
 [<img  src="https://user-images.githubusercontent.com/52702712/198732854-5d10cb9c-b937-4d59-b899-d056b671335b.png" height="35">]()
 [<img  src="https://user-images.githubusercontent.com/52702712/198739523-ff8901c4-e4dd-4a5a-b328-61112f6f0cb1.svg" height="35">]()
 [<img  src="https://user-images.githubusercontent.com/52702712/198739517-8c52f4b9-bc44-4505-b915-01ebf36c3904.svg" height="35">]()
 [<img  src="https://user-images.githubusercontent.com/52702712/198739496-c87c3325-45a9-42c7-8d22-31c5ff2e8ac2.png" height="35">]()
-[<img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35">]()
+[<img  src="https://user-images.githubusercontent.com/52702712/198739729-c8b39e46-9c8f-41a4-864a-6b55ed9fd164.png" height="35">]()
 
 
 ## :clipboard: Projects
