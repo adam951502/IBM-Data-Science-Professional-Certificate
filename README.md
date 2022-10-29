@@ -47,5 +47,5 @@ Python libraries were used throughout the certification.
 
 
 ## :clipboard: Projects
-- [Class Programming Languages](https://github.com/adam951502/IBM_Data_Science_Professional_Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Final%20Assignment/Tools%20for%20Data%20Science%20Assignment%20.ipynb)
+- [Programming Language Statistics in The Class](https://github.com/adam951502/IBM_Data_Science_Professional_Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Final%20Assignment/Tools%20for%20Data%20Science%20Assignment%20.ipynb)
 - [Extracting and Visualizing Stock Data](https://github.com/adam951502/IBM_Data_Science_Professional_Certificate/blob/d7cc04dc216356099094182e08964e8e10cb51bd/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment/Final%20Assignment.ipynb)
