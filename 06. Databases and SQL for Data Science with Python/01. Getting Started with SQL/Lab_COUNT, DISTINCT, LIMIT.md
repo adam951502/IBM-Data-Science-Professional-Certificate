@@ -1,4 +1,4 @@
-    ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork/labs/Labs_Coursera_V5/labs/Lab%20-%20COUNT%20-%20DISTINCT%20-%20LIMIT/images/IDSNlogo.png)
+![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork/labs/Labs_Coursera_V5/labs/Lab%20-%20COUNT%20-%20DISTINCT%20-%20LIMIT/images/IDSNlogo.png)
 
 Hands-on Lab : COUNT, DISTINCT, LIMIT
 =====================================
@@ -351,49 +351,6 @@ Author(s)
 ---------
 
 *   [Sandip Saha Joy](https://www.linkedin.com/in/sandipsahajoy/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDB0201ENSkillsNetwork20127838-2022-01-01)
-
-  
-
-Other Contributor(s)
---------------------
-
-  
-
-Changelog
----------
-
-Date
-
-Version
-
-Changed by
-
-Change Description
-
-2022-07-27
-
-1.2
-
-Lakshmi Holla
-
-Updated html tag
-
-2020-12-23
-
-1.1
-
-Steve Ryan
-
-ID Review
-
-2020-11-24
-
-1.0
-
-Sandip Saha Joy
-
-Initial version created
-
   
 
 ### © IBM Corporation 2020. All rights reserved.
