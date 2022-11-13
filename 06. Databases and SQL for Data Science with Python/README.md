@@ -4,7 +4,7 @@
 The purpose of this course is to introduce relational database concepts and to learn and apply foundational knowledge of the SQL language. It is also intended to provide a foundation to performing SQL access in a data science environment.  
 
 ## 📑 Main Topics
-- [Getting Started with SQL](/01.%20Getting%20Started%20with%20SQL)
+- [Getting Started with SQL](https://github.com/adam951502/IBM_Data_Science_Professional_Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/01.%20Getting%20Started%20with%20SQL)
   - Introduction to Databases
   - SELECT Statements
   - COUNT, DISTINCT, LIMIT Statements
