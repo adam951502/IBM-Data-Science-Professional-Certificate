@@ -187,8 +187,8 @@ SET [[ColumnName] = [Value]]
 ```
 
 - E.g.
-    
-    ![Untitled](Week01%20-%20Getting%20Started%20with%20SQL%20517f74f533634ad2a5323e333b1b3c7b/Untitled.png)
+    ![Untitled](https://user-images.githubusercontent.com/52702712/203136630-a4964131-4a80-4183-8fb6-8e23af85881a.png)
+
     
 
 ```sql
@@ -204,7 +204,8 @@ WHERE AUTHOR_ID = "A2"
 - The `DELETE` statement is one of the data manipulation language or DML statements. DML statements are used to read and modify data.
 - E.g.
 
-![Untitled](Week01%20-%20Getting%20Started%20with%20SQL%20517f74f533634ad2a5323e333b1b3c7b/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/52702712/203136691-1f820670-52f9-49ed-96da-e93b2707d7da.png)
+
 
 ```sql
 DELETE FROM AUTHOR
