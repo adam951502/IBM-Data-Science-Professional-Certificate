@@ -59,7 +59,7 @@ Let us first explore the **Instructors** database using the **Datasette** to
 
 1. If the first statement listed below is not already in the Datasette textbox on the right, then copy the code below by clicking on the little copy button on the bottom right of the codeblock below and then paste it into the textbox of the Datasette tool using either **Ctrl+V** or right-click in the text box and choose **Paste**.
     
-    ```
+    ```sql
     
     SELECT *FROM Instructor;
     
@@ -74,7 +74,7 @@ Let us first explore the **Instructors** database using the **Datasette** to
     
 4. These are the column attribute descriptions from the **Instructor** table:
     
-    ```
+    ```sql
     
     Instructor (
         ins_id:     unique identification numberofthe instructors,
@@ -104,7 +104,7 @@ Let us go through some examples of INSERT related queries:
         > 
     2. Solution:
         
-        ```
+        ```sql
         
         INSERT INTO Instructor(ins_id, lastname, firstname, city, country)
         VALUES(4, 'Saha', 'Sandip', 'Edmonton', 'CA');
@@ -114,7 +114,7 @@ Let us go through some examples of INSERT related queries:
     3. Copy the solution code above by clicking on the little copy button on the bottom right of the codeblock below and paste it to the textbox of the Datasette tool. Then click **Submit query**.
     4. Copy the code below by clicking on the little copy button on the bottom right of the codeblock below and paste it to the textbox of the Datasette tool. Then click **Submit query**.
         
-        ```
+        ```sql
         
         SELECT *FROM Instructor;
         
@@ -131,7 +131,7 @@ Let us go through some examples of INSERT related queries:
         > 
     2. Solution:
         
-        ```
+        ```sql
         
         INSERT INTO Instructor(ins_id, lastname, firstname, city, country)
         VALUES(5, 'Doe', 'John', 'Sydney', 'AU'), (6, 'Doe', 'Jane', 'Dhaka', 'BD');
@@ -141,9 +141,9 @@ Let us go through some examples of INSERT related queries:
     3. Copy the solution code above by clicking on the little copy button on the bottom right of the codeblock below and paste it to the textbox of the Datasette tool. Then click **Submit query**.
     4. Copy the code below by clicking on the little copy button on the bottom right of the codeblock below and paste it to the textbox of the Datasette tool. Then click **Submit query**.
         
-        ```
+        ```sql
         
-        SELECT *FROM Instructor;
+        SELECT * FROM Instructor;
         
         ```
         
@@ -208,7 +208,7 @@ Let us go through some examples of UPDATE related queries:
         > 
     2. Solution:
         
-        ```
+        ```sql
         
         UPDATE Instructor
         SET city='Toronto'
@@ -218,9 +218,9 @@ Let us go through some examples of UPDATE related queries:
     3. Copy the solution code above by clicking on the little copy button on the bottom right of the codeblock below and paste it to the textbox of the Datasette tool. Then click **Submit query**.
     4. Copy the code below by clicking on the little copy button on the bottom right of the codeblock below and paste it to the textbox of the Datasette tool. Then click **Submit query**.
         
-        ```
+        ```sql
         
-        SELECT *FROM Instructor;
+        SELECT * FROM Instructor;
         
         ```
         
@@ -235,7 +235,7 @@ Let us go through some examples of UPDATE related queries:
         > 
     2. Solution:
         
-        ```
+        ```sql
         
         UPDATE Instructor
         SETcity='Dubai',country='AE'
@@ -246,7 +246,7 @@ Let us go through some examples of UPDATE related queries:
     3. Copy the solution code above by clicking on the little copy button on the bottom right of the codeblock below and paste it to the textbox of the Datasette tool. Then click **Submit query**.
     4. Copy the code below by clicking on the little copy button on the bottom right of the codeblock below and paste it to the textbox of the Datasette tool. Then click **Submit query**.
         
-        ```
+        ```sql
         
         SELECT *FROM Instructor;
         
@@ -315,7 +315,7 @@ Let us go through an example of a DELETE related query:
         > 
     2. Solution:
         
-        ```
+        ```sql
         
         DELETE FROM instructor
         WHERE ins_id = 6;
@@ -324,9 +324,9 @@ Let us go through an example of a DELETE related query:
     3. Copy the solution code above by clicking on the little copy button on the bottom right of the codeblock below and paste it to the textbox of **Custom SQL query** of the Datasette tool. Then click **Submit query**.
     4. Copy the code below by clicking on the little copy button on the bottom right of the codeblock below and paste it to the textbox of the Datasette tool. Then click **Submit query**.
         
-        ```
+        ```sql
         
-        SELECT *FROM Instructor;
+        SELECT * FROM Instructor;
         
         ```
         
