@@ -56,9 +56,11 @@ The purpose of this course is to introduce relational database concepts and to l
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
+<!--
   <a> <img src="https://user-images.githubusercontent.com/52702712/198289864-033f4770-a738-4307-b52c-e3c51bd67fc6.jpeg"></a>
-<!-- 
-  <a href=""><img src="" height="430"></a>
-  <a href=""><img src="" height="430"></a>
 -->
+  <a href="https://user-images.githubusercontent.com/52702712/207164192-d7ee992e-0bff-439c-825f-3504bfc1cbc3.jpeg"><img src="https://coursera.org/share/c08c5aebc7548b729a6e50e9e4f7ada7" height="430"></a>
+  <a href="https://user-images.githubusercontent.com/52702712/207163934-c73e3b4d-2a23-416f-a4e8-6fd5f4f401d1.png"><img src="https://www.credly.com/badges/0ce0a915-7889-40c9-9957-3c15c8e05106/public_url" height="430"></a>
+
 </p>
+
