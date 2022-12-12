@@ -20,7 +20,7 @@ The IBM Data Science Professional Certification consists of 10 courses which wil
 - [x] [03. Data Science Methodology](03.%20Data%20Science%20Methodology)
 - [x] [04. Python for Data Science, AI & Development](04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/)
 - [x] [05. Python Project for Data Science](05.%20Python%20Project%20for%20Data%20Science/)
-- [ ] [06. Databases and SQL for Data Science with Python](06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/)
+- [x] [06. Databases and SQL for Data Science with Python](06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/)
 - [ ] [07. Data Analysis with Python](07.%20Data%20Analysis%20with%20Python/)
 - [ ] [08. Data Visualization with Python](08.%20Data%20Visualization%20with%20Python/)
 - [ ] [09. Machine Learning with Python](09.%20Machine%20Learning%20with%20Python/)
