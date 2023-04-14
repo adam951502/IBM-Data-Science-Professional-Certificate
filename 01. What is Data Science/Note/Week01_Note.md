@@ -2,7 +2,7 @@
 
 ---
 
-# Week01 -
+# Week01 - 1. What is Data Science?
 
 ## Syllabus
 
