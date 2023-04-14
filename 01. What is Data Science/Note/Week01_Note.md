@@ -2,9 +2,7 @@
 
 ---
 
-# Week01 - 1. What is Data Science?
-
-## Syllabus
+# Week01 - Defining Data Science and What Data Scientists Do
 
 ## **Defining Data Science and What Data Scientists Do**
 
@@ -84,11 +82,11 @@
 
 ---
 
-# Week02 -
+# Week02 - Data Science Topics
 
 ## ****Big Data and Data Mining****
 
-Take-Home Message
+### Take-Home Message
 
 - How Big Data is defined by the Vs: Velocity, Volume, Variety, Veracity, and Value.
     - Explinations
@@ -103,7 +101,7 @@ Take-Home Message
 
 ## ****Deep Learning and Machine Learning****
 
-Take-Home Message
+### Take-Home Message
 
 - The differences between some common Data Science terms, including Deep Learning and Machine Learning.
 - Deep Learning is a type of Machine Learning that simulates human decision-making using neural networks.
@@ -112,7 +110,7 @@ Take-Home Message
 
 ---
 
-# Week03 -
+# Week03 - Data Science in Business
 
 ## ****Data Science in Business****
 
