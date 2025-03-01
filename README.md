@@ -6,7 +6,7 @@
 
 # IBM Data Science Professional Certificate
 
-The IBM Data Science Professional Certificate consists of 12 courses designed to equip you with the necessary tools and skills to excel in data science. The curriculum covers open-source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning.&#8203;:contentReference[oaicite:0]{index=0}
+The IBM Data Science Professional Certificate consists of 12 courses designed to equip you with the necessary tools and skills to excel in data science. The curriculum covers open-source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning.
 
 ---
 
